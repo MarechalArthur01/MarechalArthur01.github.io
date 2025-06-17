@@ -1,76 +1,60 @@
 {"name":"Marechal",
 	"downloads":[
-		{
+	    {
+		    
 			"title":"ULTRAKILL (Build 17867434) [Pre-Instalado]",
 			"uris":["https://gofile.io/d/Gxp9HS"],
 			"uploadDate":"2025-06-08T23:00:00.000Z",
-			"fileSize":"2.5 GB"
-        },
-	    {
+			"fileSize":"2.5 GB"},
+	        {
 		    "title":"R.E.P.O.(v0.1.2+ Co-op) [Pre-Instalado]",
 			"uris":["https://gofile.io/d/c0GGzm"],
 			"uploadDate":"2025-06-08T23:00:00.000Z",
-			"fileSize":"445.4 MB"
-        },
-        {
+			"fileSize":"445.4 MB"},
+            {
 			"title":"BeamNG.drive (v0.35.3.0 + Co-op)[Pre-Instalado]",
 			"uris":["https://gofile.io/d/PRWlRe"],
 			"uploadDate":"2025-06-08T23:00:00.000Z",
-			"fileSize":"58.7 GB"
-        },
-        {
+			"fileSize":"58.7 GB"},
+            {
 		    "title":"Hotline Miami 2:Wrong Number [Pre-Instalado]",
 			"uris":["https://pixeldrain.com/u/pnQ4zhtb"],
 			"uploadDate":"2025-06-08T23:00:00.000Z",
-			"fileSize":"669 MB"
-        },
-		{
+			"fileSize":"669 MB"},
+		    {
 			"title":"Hotline Miami",
 			"uris":["https://pixeldrain.com/u/xWpn9ESR"],
 			"uploadDate":"2025-06-08T23:00:00.000Z",
-		    "fileSize":"637 MB"
-        },
-		{
+		    "fileSize":"637 MB"},
+		    {
 		    "title":"Schedule I(v0.3.5f3+ Online) [Pre-Instalado]",
  			"uris":["https://gofile.io/d/UjJvMn"],
 			"uploadDate":"2025-06-08T23:00:00.000Z",
-			"fileSize":"2.5 GB"
-        },
-	    {
+			"fileSize":"2.5 GB"},
+	        {
 			"title":"Elden Ring Deluxe Edition (v1.16)[Pre-Instalado]",
 			"uris":["https://gofile.io/d/S683NC"],
 			"uploadDate":"2025-06-09T23:00:00.000Z",
-			"fileSize":"72.0 GB"
-        },
-		{
+			"fileSize":"72.0 GB"},
+		    {
 			"title":"ELDEN RING NIGHTREIGN (v1.01.1 + Co-op) [Pre-Instalado] ",
 			"uris":["https://gofile.io/d/rqnTWD"],
 			"uploadDate":"2025-06-09T23:00:00.000Z",
-			"fileSize":"21.9 GB"
-        },
-	    {
+			"fileSize":"21.9 GB"},
+	        {
 			"title":"Schedule I (v0.3.6f3+ Online) [Pre-Instalado]",
 			"uris":["https://gofile.io/d/xF0cOu"],
 			"uploadDate":"2025-06-09T23:00:00.000Z",
-			"fileSize":"2.5 GB"
-        },
-		{
+			"fileSize":"2.5 GB"},
+		    {
 			"title":"Bloons TD 6 (v48.2) [Pre-Instalado]",
 			"uris":["https://gofile.io/d/SP6Gwc"],
 			"uploadDate":"2025-06-08T23:00:00.000Z",
-			"fileSize":"1.8 GB"
-        },
-		{
+			"fileSize":"1.8 GB"},
+		    {
 			"title":"Bodycam (Build 16723847 + Multiplayer) [Pre-Instalado]",
 			"uris":["https://gofile.io/d/Vr2utl"],
 			"uploadDate":"2025-06-09T23:00:00.000Z",
-			"fileSize":"47.3 GB"
-        },
-		{
-			"title":"OMORI (Build 8879120) [Pre-Instalado]",
-			"uris":["https://pixeldrain.com/u/rysQr2b3"],
-			"uploadDate":"2025-06-09T23:00:00.000Z",
-			"fileSize":"1.95 GB"
-        }
-	]
-}
+			"fileSize":"47.3 GB"}
+	    ]
+    }
